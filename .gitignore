@@ -1,0 +1,19 @@
+# Дирректории
+__pycache__
+.git
+.idea
+
+# Файлы
+*.lnk
+
+# Created by https://www.gitignore.io/api/backup
+
+### Backup ###
+*.bac
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+# End of https://www.gitignore.io/api/backup
